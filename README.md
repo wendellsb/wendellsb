@@ -1,4 +1,4 @@
-## Olá! Eu sou o Wendell Santos, seja bem vindo  🙌🏾 🤙🏾
+## Olá! Eu sou o Wendell Santos 🤙🏾
 
 <div align="center" dir="auto">
   <a href="https://github.com/wendellsb">
