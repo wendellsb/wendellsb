@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Wendell Santos, seja bem vindo  🙌🏾 🤙🏾
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendellsb&theme=dark&show_icons=true)
+<div align="center" dir="auto">
+  <a href="https://github.com/wendellsb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellsb&theme=dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellsb&theme=dark&layout=compact">
+</a></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendellsb&layout=compact)](https://github.com/wendellsb/github-readme-stats)
