@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Wendell Santos 🤙🏾
 
 <div align="center" dir="auto">
-  <a href="https://github.com/wendellsb">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=wendellsb&theme=dark&show_icons=true">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellsb&theme=dark&layout=compact">
+  <a href="https://github.com/duribeiro">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=wendellsb&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellsb&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
