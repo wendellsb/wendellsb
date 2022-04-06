@@ -3,7 +3,7 @@
 
 - 🌱 Estudando ReactJS
 - 🌱 Estudando C#
--📫 Contate-me no email: dev.wendell@gmail.com
+- 📫 Contate-me no email: dev.wendell@gmail.com
 
 ##
 
