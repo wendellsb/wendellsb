@@ -1,9 +1,7 @@
 
 ## Olá! Eu sou o Wendell Santos 🤙🏾
 
-
-- 🌱 Estudando ReactJS
-- 🌱 Estudando C#
+- 🌱 Estudando C# | .Net
 - 📫 Contate-me no email: dev.wendell@gmail.com
 
 ##
