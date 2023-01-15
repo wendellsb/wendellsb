@@ -11,7 +11,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wendellsb&show_icons=true&theme=dracula"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellsb&layout=compact&langs_count=15&theme=dracula"/>
 </div>
-  
 
 ##
   
