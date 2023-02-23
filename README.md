@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Wendell Santos 🤙🏾
 
-- 🌱 Trabalhando com  C# | .Net 
+- 🌱 Trabalhando com  C# 
 - 📫 Contate-me no email: dev.wendell@gmail.com
 
 ##
