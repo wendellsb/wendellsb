@@ -11,9 +11,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wendellsb&show_icons=true&theme=dracula"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellsb&layout=compact&langs_count=15&theme=dracula"/>
 </div>
-
 ##
-  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
