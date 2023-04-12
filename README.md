@@ -2,7 +2,7 @@
 ## Olá! Eu sou o Wendell Santos 🤙🏾 
 
 - 🌱 Trabalhando com  C# .Net  
-- 🌱 Estudando Mobile: Flutter 
+- 🌱 Estudando Mobile: Flutter  
 - 📫 Contate-me no email: dev.wendell@gmail.com
  
 ##
