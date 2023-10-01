@@ -1,8 +1,7 @@
 
 ## Olá! Eu sou o Wendell Santos 🤙🏾 
 
-- 🌱 Trabalhando com  C# .Net
-- 🌱 Estudando Mobile: Flutter   
+- 🌱 Trabalho como Full-Stack com C#, .Net, Javascript, SQL Server, jQuery. 
 - 📫 Contate-me no email: dev.wendell@gmail.com
  
 ##
