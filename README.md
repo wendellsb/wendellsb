@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Wendell Santos 🤙🏾 
 
-- 🌱 Trabalho como Full-Stack desde 2021, especializado em C#, .Net, Javascript, SQL Server, jQuery. 
+- 🌱 Trabalho como Full-Stack desde 2021, especializado em C#, .Net, ASP.NET, Javascript, ReactJS, Typescript, SQL Server, jQuery. 
 - 📫 Contate-me no email: dev.wendell@gmail.com
  
 ##
